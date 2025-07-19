@@ -10,7 +10,25 @@
  <img src="https://md.sigma2.no/uploads/8c82dd44-e7c7-49a1-a774-1de130d2856b.jpg" alt="Instructor: Abdulrahman Azab" width="80"/>
 
 ---
-[TOC]
+
+## 📚 Table of Contents
+
+* [🔁 Recap from Previous Lecture](#-recap-from-previous-lecture)
+* [🛠️ Why Networking Tools Matter in Cybersecurity](#️-why-networking-tools-matter-in-cybersecurity)
+* [🌐 Categories of Networking Tools](#-categories-of-networking-tools)
+* [🔌 Lab: Connectivity Tools in Linux](#-lab-connectivity-tools-in-linux)
+* [🧭 Lab: Routing & Tables Tools in Linux](#-lab-routing--tables-tools-in-linux)
+* [🔍 Lab: Ports & Services Tools in Linux](#-lab-ports--services-tools-in-linux)
+* [🌐 Lab: DNS & Hostname Tools](#-lab-dns--hostname-tools)
+* [🧲 Lab: Traffic Capture Tools](#-lab-traffic-capture-tools)
+* [🔌 Lab: Sockets & Data Transfer Tools](#-lab-sockets--data-transfer-tools)
+* [📶 Lab: Bandwidth Monitoring Tools in Linux](#-lab-bandwidth-monitoring-tools-in-linux)
+* [🛡️ Lab: Security Scanners & Packet Crafting Tools](#️-lab-security-scanners--packet-crafting-tools)
+* [✅ Summary – Networking Tools in Linux](#-summary--networking-tools-in-linux)
+* [📣 Next Session Preview: Bash Scripting for Security](#-next-session-preview-bash-scripting-for-security)
+* [✅ Recap Quiz: Tools & Use Cases](#-recap-quiz-tools--use-cases)
+* [📂 Assignment: Network Tools in Practice](#-assignment-network-tools-in-practice)
+* [Course Contents](#course-contents)
 
 ---
 
