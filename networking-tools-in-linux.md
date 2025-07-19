@@ -1,12 +1,17 @@
 # CSCI 497 – Linux Lab: 6. Networking Tools in Linux
 *Part of Module 3: Networking Fundamentals*
- **Date**: July 18, 2025  
- **Duration**: 120 minutes (with 15-min break)
- **Theme**: Understanding how networks are logically segmented and how packets find their path, with a focus on subnetting, routing, and Linux tools for exploration and troubleshooting.
+ 
+**Date**: July 18, 2025  
+ 
+**Duration**: 120 minutes (with 15-min break)
+ 
+**Theme**: Understanding how networks are logically segmented and how packets find their path, with a focus on subnetting, routing, and Linux tools for exploration and troubleshooting.
+
 **Theme**: Exploring foundational networking tools in Linux, with practical usage for diagnostics, reconnaissance, and cybersecurity operations.
 
 **Instructor:** Abdulrahman Azab Mohamed
  📧 [abdulrahman.azab@sigma2.no](mailto:abdulrahman.azab@sigma2.no)
+ 
  <img src="https://md.sigma2.no/uploads/8c82dd44-e7c7-49a1-a774-1de130d2856b.jpg" alt="Instructor: Abdulrahman Azab" width="80"/>
 
 ---
